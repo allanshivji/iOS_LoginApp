@@ -1,4 +1,4 @@
-# iOS Log App with Seague
+# iOS Login App with Seague
 
 This is an iOS login app which first identifies what kind of biometric device does your iPhone support.<br /><br />
 If it supports Face ID then a face icon button is shown and when clicked it requires face id authentication.<br /><br />
