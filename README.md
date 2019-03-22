@@ -6,4 +6,4 @@ Similarly if the iPhone supports Touch ID then it shows a fingerprint icon butto
 Once the user is Authenticated then the user is taken to another view with seague.
 
 
-![XR](https://user-images.githubusercontent.com/13806781/54829935-e35af700-4c8d-11e9-98d4-0ee8136baa78.gif)
+![XR](https://user-images.githubusercontent.com/13806781/54830941-d8a16180-4c8f-11e9-98fb-479f5fcd77ab.gif)
